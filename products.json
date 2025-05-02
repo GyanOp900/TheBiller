@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Notebook",
+        "price": 50,
+        "image": "images/notebook.png",
+        "stock": 0
+    },
+    {
+        "name": "Eraser",
+        "price": 1,
+        "image": "images/eraser.png",
+        "stock": 955
+    },
+    {
+        "name": "Pencil",
+        "price": 7,
+        "image": "images/pencil.png",
+        "stock": 703
+    },
+    {
+        "name": "Ruler",
+        "price": 15,
+        "image": "images/ruler.png",
+        "stock": 0
+    },
+    {
+        "name": "Sharpener",
+        "price": 8,
+        "image": "images/sharpener.png",
+        "stock": 95
+    },
+    {
+        "name": "Marker",
+        "price": 20,
+        "image": "images/marker.png",
+        "stock": 0
+    },
+    {
+        "name": "Glue Stick",
+        "price": 25,
+        "image": "images/gluestick.png",
+        "stock": 0
+    },
+    {
+        "name": "Chocolate",
+        "price": 30,
+        "image": "images/chocolate.png",
+        "stock": 0
+    },
+    {
+        "name": "Chips",
+        "price": 20,
+        "image": "images/chips.png",
+        "stock": 0
+    },
+    {
+        "name": "Cookies",
+        "price": 35,
+        "image": "images/cookies.png",
+        "stock": 0
+    },
+    {
+        "name": "Juice Box",
+        "price": 18,
+        "image": "images/juicebox.png",
+        "stock": 993
+    },
+    {
+        "name": "Soap",
+        "price": 28,
+        "image": "images/soap.png",
+        "stock": 0
+    },
+    {
+        "name": "Toothpaste",
+        "price": 45,
+        "image": "images/toothpaste.png",
+        "stock": 1
+    },
+    {
+        "name": "Shampoo",
+        "price": 90,
+        "image": "images/shampoo.png",
+        "stock": 1
+    },
+    {
+        "name": "Hand Sanitizer",
+        "price": 60,
+        "image": "images/sanitizer.png",
+        "stock": 1
+    },
+    {
+        "name": "Earphones",
+        "price": 299,
+        "image": "images/earphones.png",
+        "stock": 1
+    },
+    {
+        "name": "USB Cable",
+        "price": 120,
+        "image": "images/usb.png",
+        "stock": 1
+    },
+    {
+        "name": "Power Bank",
+        "price": 999,
+        "image": "images/powerbank.png",
+        "stock": 0
+    },
+    {
+        "name": "Mouse",
+        "price": 450,
+        "image": "images/mouse.png",
+        "stock": 50
+    },
+    {
+        "name": "Mineral Water",
+        "price": 20,
+        "image": "images/water.png",
+        "stock": 1
+    },
+    {
+        "name": "Energy Drink",
+        "price": 80,
+        "image": "images/energydrink.png",
+        "stock": 12
+    },
+    {
+        "name": "Soda",
+        "price": 27.0,
+        "image": "images/soda.png",
+        "stock": 1
+    },
+    {
+        "name": "Pen",
+        "price": 2.0,
+        "image": "images/setting_icon-removebg-preview.png",
+        "stock": 4997
+    }
+]
